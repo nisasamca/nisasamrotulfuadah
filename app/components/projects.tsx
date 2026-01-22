@@ -6,7 +6,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
   {
-    src: "/project/tokoBuku.png",
+    src: "/project/tokobuku.png",
     title: "TOKO BUKU",
     desc: "A bookstore application is an application developed using Laravel with a MySQL database to manage book data, transactions, and store operations in a structured and efficient way.",
   },
