@@ -72,7 +72,7 @@ export default function Competency() {
                 <FloatingLogo src="/icons/figma.svg" name="Figma" delay={0} />
                 <FloatingLogo src="/icons/github.svg" name="GitHub" delay={0} />
                 <FloatingLogo src="/icons/trello.svg" name="Trello" delay={0.5} />
-                <FloatingLogo src="/icons/Notion.svg" name="Notion" delay={1} />
+                <FloatingLogo src="/icons/notion.svg" name="Notion" delay={1} />
                 <FloatingLogo src="/icons/vscode.svg" name="Visual Studio Code" delay={1.5} />
             </div>
             )}
