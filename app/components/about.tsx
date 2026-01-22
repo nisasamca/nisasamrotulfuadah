@@ -12,14 +12,12 @@ export default function About() {
       <div className="w-1/2 ml-20 -translate-y-12">
         <h2 className="text-4xl font-bold mb-6 text-black">About Me</h2>
         <p className="text-lg text-gray-700 leading-relaxed max-w-lg">
-            Ketertarikan pada dunia digital tumbuh dari keinginan untuk menciptakan
-            pengalaman yang nyaman dan bermakna bagi pengguna. Proses 
-            memahami kebutuhan, memperhatikan detail, dan menyusun solusi yang jelas
-            menjadi bagian penting dalam setiap karya.
+            My interest in the digital world grew from a desire to create comfortable and meaningful
+            experiences for users. The process of understanding needs, paying attention to details,
+            and crafting clear solutions has become an essential part of every project.
             <br /><br />
-            Halo! Saya Nisa, saya terbiasa bekerja dengan tanggung jawab,
-            menjaga komunikasi yang baik, serta terbuka terhadap masukan.
-            setiap karya dibangun melalui proses yang tenang, terarah, dan penuh perhatian.
+            Hello! I’m Nisa. I’m accustomed to working responsibly, maintaining good communication,
+            and staying open to feedback. Each project is built through a calm, focused, and thoughtful process.
         </p>
       </div>
 

@@ -6,19 +6,19 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
   {
-    src: "/images/project1.jpg",
-    title: "Project One",
-    desc: "Deskripsi untuk project pertama",
+    src: "/project/tokoBuku.png",
+    title: "TOKO BUKU",
+    desc: "A bookstore application is an application developed using Laravel with a MySQL database to manage book data, transactions, and store operations in a structured and efficient way.",
   },
   {
-    src: "/images/project2.jpg",
-    title: "Project Two",
-    desc: "Deskripsi untuk project kedua",
+    src: "/project/sidata.png",
+    title: "UI SIDATA",
+    desc: "SiData is the result of UI slicing for an Android application built with Flutter, optimized from a web design into an Android-friendly, clean, responsive interface that stays true to the original design.",
   },
   {
-    src: "/images/project3.jpg",
-    title: "Project Three",
-    desc: "Deskripsi untuk project ketiga",
+    src: "/project/skyJourney.png",
+    title: "Sky Journey",
+    desc: "A UI design for an application that I created using Figma. This application helps users identify their MBTI personality type through a modern, intuitive, and easy-to-use interface.",
   },
 ];
 

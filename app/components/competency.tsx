@@ -46,6 +46,7 @@ export default function Competency() {
                 <FloatingLogo src="/icons/tailwind.svg" name="Tailwind CSS" delay={1} />
                 <FloatingLogo src="/icons/css.svg" name="CSS" delay={1.5} />
                 <FloatingLogo src="/icons/bootstrap.svg" name="Bootstrap" delay={2} />
+                <FloatingLogo src="/icons/flutter.svg" name="Flutter" delay={2.5} />
             </div>
             )}
 
